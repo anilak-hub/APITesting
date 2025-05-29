@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-28T19:08:51 IST" name="Default suite" finished-at="2025-05-28T19:08:51 IST" duration-ms="310">
+    <groups>
+    </groups>
+    <test started-at="2025-05-28T19:08:51 IST" name="Default test" finished-at="2025-05-28T19:08:51 IST" duration-ms="310">
+      <class name="day5.SerilizationDeserilization">
+        <test-method signature="convertPOJO_to_JSON()[pri:1, instance:day5.SerilizationDeserilization@6a6cb05c]" started-at="2025-05-28T19:08:51 IST" name="convertPOJO_to_JSON" finished-at="2025-05-28T19:08:51 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- convertPOJO_to_JSON -->
+        <test-method signature="convertJson2Pojo()[pri:2, instance:day5.SerilizationDeserilization@6a6cb05c]" started-at="2025-05-28T19:08:51 IST" name="convertJson2Pojo" finished-at="2025-05-28T19:08:51 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- convertJson2Pojo -->
+      </class> <!-- day5.SerilizationDeserilization -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
